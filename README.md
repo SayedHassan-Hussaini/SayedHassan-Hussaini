@@ -1,4 +1,5 @@
-### <h1> Thanks for visiting my Git! 👋</h1>
+###<h1> Hi 👋</h1>
+<h1> Thanks for visiting my Git!</h1>
 
 <!--
 **SayedHassan-Hussaini/SayedHassan-Hussaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
