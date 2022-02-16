@@ -1,10 +1,10 @@
 <h1>  Hi 👋</h1>
 <h2> Thanks for visiting my Git!</h2>
-<h4>I am a JavaScript developer</h4>
+<h4>I am a js developer</h4>
 <ul>
     <li>🔭 These days I'm working on different kinds of projects</li>
     <li>🌱 I’m currently learning Nodejs & Express</li>
-    <li>🎯 Goals: I wan to become Full-stack developer on JavaScrip</li>
+    <li>🎯 Goals: I wan to become Full-stack developer on js</li>
     <li>📫 How to reach me <a href="mailto:sh.hussaini1378@gmail.com">sh.hussaini1378@gmail.com</a></li>
 </ul>
 
