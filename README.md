@@ -5,7 +5,7 @@
     <li>🔭 These days I'm working on different kinds of projects</li>
     <li>🌱 I’m currently learning Nodejs & Express</li>
     <li>🎯 Goals: I wan to become Full-stack developer on JavaScrip</li>
-    <li>📫 How to reach me sh.hussaini1378@gmail.com</li>
+    <li>📫 How to reach me <a href="mailto:sh.hussaini1378@gmail.com">sh.hussaini1378@gmail.com</a></li>
 </ul>
 
 <!--
