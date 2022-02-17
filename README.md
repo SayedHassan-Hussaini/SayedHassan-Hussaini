@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SayedHassan-Hussaini&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://SayedHassan-Hussain/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedHassan-Hussaini&theme=dracula">
 
 </p>
