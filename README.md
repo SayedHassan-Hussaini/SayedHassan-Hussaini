@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SayedHassan-Hussaini&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github.com/SayedHassan-Hussaini/SayedHassan-Hussaini/blob/master/communities/kotlin_mumbai.png" height="100px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedHassan-Hussaini&theme=dracula">
 
 </p>
