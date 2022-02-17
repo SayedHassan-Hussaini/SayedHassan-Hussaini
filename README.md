@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  <img src="https://SayedHassan-Hussain/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?/SayedHassan-Hussain/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedHassan-Hussaini&theme=dracula">
 
 </p>
