@@ -7,6 +7,14 @@
     <li>🎯 Goals: I wan to become Full-stack developer on js</li>
     <li>📫 How to reach me <a href="mailto:sh.hussaini1378@gmail.com">sh.hussaini1378@gmail.com</a></li>
 </ul>
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+
+</p>
 
 <!--
 **SayedHassan-Hussaini/SayedHassan-Hussaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
